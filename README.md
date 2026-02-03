@@ -1,4 +1,4 @@
-# dblp-data-pipeline
+# DBLP Data Pipeline
 
 In  this project, you will find:
 - `sax_parser.ipynb` - Parser of the raw data file `dblp.xml`.
